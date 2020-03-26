@@ -10,17 +10,17 @@ One of the biggest hurdles to someone trying out Gatsby is saying, “Well, I do
 
 ### Reasons to use Gatsby
 
-1. **Built with performance in mind**
-2. **Based on popular and influential technology** 
+1. Built with performance in mind
+2. Based on popular and influential technology 
 
-3. **Fun to use and learn**
+3. Fun to use and learn
 
 ### Reasons to not use Gatsby
 
-1. **Sites with a large number of pages**
+1. Sites with a large number of pages
 
-2. **Sites that use a lot of plugins**
-3. **Complex technologies like GraphQL**
+2. Sites that use a lot of plugins
+3. Complex technologies like GraphQL
 
 ## Resources to learn Gatsby
 
